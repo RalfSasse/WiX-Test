@@ -1,0 +1,3 @@
+WiX-Test.txt
+
+Diese Datei soll auf den Zielrechner kopiert werden.
