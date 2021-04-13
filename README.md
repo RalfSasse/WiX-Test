@@ -1,4 +1,4 @@
 #README.md
 Mein erster Versuch mit dem WiX-Toolset.
 
-Änderung in der README.md
+Ziel ist es, eine Textdatei in ein Verzeichnis auf dem Zielrechner zu kopieren.
