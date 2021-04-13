@@ -1,0 +1,4 @@
+# WiX-Test
+Test
+
+Test
